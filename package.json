@@ -15,7 +15,7 @@
     "@emotion/styled": "11.3.0",
     "@types/react-icons": "3.0.0",
     "axios": "0.24.0",
-    "framer-motion": "4.1.17",
+    "framer-motion": "5.6.0",
     "next": "11.1.2",
     "react": "17.0.2",
     "react-dom": "17.0.2"
